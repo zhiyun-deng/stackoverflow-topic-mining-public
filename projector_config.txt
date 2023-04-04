@@ -1,0 +1,13 @@
+{
+  embeddings [
+    {
+      tensorName gpt-embedding-for-iot-keywords,
+      tensorShape [
+        3406,
+        1536
+      ],
+      tensorPath https://raw.githubusercontent.com/zhiyun-deng/stackoverflow-topic-mining-public/main/just_embeddings.tsv,
+      metadataPath https://raw.githubusercontent.com/zhiyun-deng/stackoverflow-topic-mining-public/main/just_keywords.tsv
+    }
+  ]
+}
